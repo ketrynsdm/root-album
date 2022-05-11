@@ -1,0 +1,118 @@
+/*
+Nome do tema: Teste
+URI do tema: <THEME_URI>
+Descrição: Testando curso youtube.
+Author: ketryn
+Author URI: <AUTHOR_URI>
+Versão: 1.0
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* .header {
+    height: 1043px;
+    background: url(images/book.jpg) center top;
+    background-repeat: no-repeat;
+}*/
+
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    margin: auto;
+    /* margin-left: 200px;
+    padding-top: 10px; */
+}
+
+
+h5 {
+    color: aliceblue;
+    left: 40px;
+
+
+}
+
+button {
+    margin-top: auto;
+}
+
+.navbar-toggler {
+    margin-top: auto;
+
+}
+
+.h4 {
+    padding-left: 68px;
+
+}
+
+.camera path {
+    fill: #FFF;
+}
+
+.align-navbar {
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-direction: row !important;
+}
+
+.align-logo {
+    display: flex;
+    align-items: center;
+}
+
+.align-logo h5 {
+    margin-bottom: 0px !important;
+    margin-left: 15px;
+}
+
+.h4 {
+    margin-left: 21px;
+}
+
+.text-muted {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 87% !important;
+    padding-left: 89px;
+    font: normal 23pt
+}
+
+.bg-dark {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 34px;
+}
+
+.bg {
+    display: flex;
+    justify-content: center;
+    align-items: self-start;
+    flex-direction: column;
+    width: 63%;
+
+}
+
+
+.contact {
+    display: flex;
+    margin-top: -2px;
+    flex-direction: column;
+}
+
+.rede-social {
+    width: 30%;
+}
